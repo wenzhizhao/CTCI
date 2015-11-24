@@ -25,5 +25,11 @@ public class test {
 		int k=nle.findNthLastElement(head, last);
 		System.out.println(k);
 	}
+	/**************
+	 * 2.3
+	 * 
+	 * 
+	 * 
+	 **************/
 	
 }
